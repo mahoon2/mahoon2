@@ -8,7 +8,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mahoon2)](https://solved.ac/mahoon2/)
 
-[![mahoon2's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahoon2&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mahoon2&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=mahoon2&rank_icon=github&show_icons=true&include_all_commits=true&theme=dracula)
 </div>
 
 ---
@@ -17,7 +17,7 @@
 My name is **Hoon Ma**. I am a scientist and also an engineer. \
 For detailed information about me, please visit my Notion page via the link above.
 
-Currently I am interested in:
+Currently, I am interested in:
 - 🧬 Bioinformatics (transcriptomics)
 - 💉 mRNA vaccines
 - 💖 *... and other cool stuff!*
